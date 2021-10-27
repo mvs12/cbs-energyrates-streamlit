@@ -1,4 +1,4 @@
-##Follow variable energy prices in the Netherlands
+## Follow variable energy prices in the Netherlands
 
 This is a simple Streamlit app where you can follow Dutch variable energy prices for gas and electricity, from 2018 until 2021.
 
