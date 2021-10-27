@@ -38,7 +38,9 @@ sidebar_title = st.sidebar.subheader("Follow energy prices for consumers in the 
 
 sidebar_text = st.sidebar.write(('''
 Follow Dutch energy prices from 2018 until 2021, monthly published by CBS. Prices are variable rates, including VAT
- and including surcharge for renewable energy. Prices are excluded Transport Rates and Fixed Rates.
+and including surcharge for renewable energy. Prices are excluded Transport Rates and Fixed Rates.
+
+[Sourcecode](https://github.com/mvs12/cbs-energyrates-streamlit)
  '''))
 
 # Create line chart with theme
